@@ -1,20 +1,8 @@
-# PhatTrienMNM
-# Python
-# Ursina
-# Socket
+# Ursina FPS
+A small FPS game made in Python 3 using the Ursina Engine.
 
-### Hello World
-_________________
-STEP BY STEP
-#1 Open VS Code
-#2 Extract File
-#3 Open File
-#4 Open CMD check ip -> ipconfig
-#5 Copy and Paste your ipv4
-#6 Run server/main.py
-#7 Open new terminal (Ctrl + Shift + `)
-#8 Run game/main.py
-#9 Enter username
-#10 Enter your ipv4
-#11 Enter port 8000
+## Playing the game
+Install the dependencies with `pip install ursina` and do `python3 game/main.py` to run the game.
 
+## Running the server
+The server does not have any dependencies. To run it, simple run the `server/main.py` file.
