@@ -1,6 +1,5 @@
 # PhatTrienMNM
 # Python
-# Pygame
 # Ursina
 # Socket
 
@@ -18,3 +17,4 @@ STEP BY STEP
 #9 Enter username
 #10 Enter your ipv4
 #11 Enter port 8000
+
